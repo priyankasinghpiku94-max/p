@@ -1,0 +1,58 @@
+*{
+    width: 100%;
+    height: 50%;
+}
+body{
+    background-color:honeydew;
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+.button{
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: aliceblue;
+    text-decoration: none;
+    border: 2px solid black;
+    margin: 20px;
+}
+.msg{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#hotpink{
+    background-color: hotpink;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#orange{
+    background-color: orange;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+h1{
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
